@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "dbe67fee-ddec-4f52-bff2-dcdf1e59f9e1",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "item_BENZ": {
+      "ver": "1.0.3",
+      "uuid": "9035dd46-03ce-43f1-8880-561d6fafb7a0",
+      "rawTextureUuid": "dbe67fee-ddec-4f52-bff2-dcdf1e59f9e1",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 300,
+      "height": 209,
+      "rawWidth": 300,
+      "rawHeight": 209,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

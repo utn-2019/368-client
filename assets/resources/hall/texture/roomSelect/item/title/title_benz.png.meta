@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "2266f09d-d932-401c-a948-faf6d105c295",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "title_benz": {
+      "ver": "1.0.3",
+      "uuid": "1e1a28eb-7d10-4902-bad0-3b94bf593524",
+      "rawTextureUuid": "2266f09d-d932-401c-a948-faf6d105c295",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 140,
+      "height": 40,
+      "rawWidth": 140,
+      "rawHeight": 40,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

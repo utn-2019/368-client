@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "65fd863d-53d3-456c-9690-f404fa7c169f",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "item_Birds": {
+      "ver": "1.0.3",
+      "uuid": "61712e6b-da08-4a7b-b284-f4986d8fbb46",
+      "rawTextureUuid": "65fd863d-53d3-456c-9690-f404fa7c169f",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -0.5,
+      "trimX": 0,
+      "trimY": 1,
+      "width": 296,
+      "height": 210,
+      "rawWidth": 296,
+      "rawHeight": 211,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

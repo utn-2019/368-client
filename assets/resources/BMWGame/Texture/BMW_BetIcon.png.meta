@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "c5a0f740-2853-495c-a3ff-626ec5d2a0a9",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "BMW_BetIcon": {
+      "ver": "1.0.3",
+      "uuid": "10ca9e6b-44bc-465d-b261-9318cfa6a2a4",
+      "rawTextureUuid": "c5a0f740-2853-495c-a3ff-626ec5d2a0a9",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 215,
+      "height": 234,
+      "rawWidth": 215,
+      "rawHeight": 234,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

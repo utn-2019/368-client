@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "0c013ae5-b4af-46db-a0c8-b2fabe9eb7f6",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "BMW": {
+      "ver": "1.0.3",
+      "uuid": "df6bf242-0bb8-4f93-ba76-6f558c1d05c6",
+      "rawTextureUuid": "0c013ae5-b4af-46db-a0c8-b2fabe9eb7f6",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 207,
+      "height": 304,
+      "rawWidth": 207,
+      "rawHeight": 304,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
